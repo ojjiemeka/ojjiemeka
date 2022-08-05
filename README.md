@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ojjiemeka
+- 👋 Hi, I’m Chukwuemeke E. Ojji
 - 😍 I’m interested in front end development
-- 🤗 I’m currently learning angular js
+- 🤗 I’m currently learning RxJS
 - 💞️ I’m looking to collaborate on front/back end jobs
 - 📫 How to reach me ...:ojjiemeka@gmail.com
 - 👨‍💻A Junior Web Developer with 3.5 years experience in building pixel perfect user interfaces. 
